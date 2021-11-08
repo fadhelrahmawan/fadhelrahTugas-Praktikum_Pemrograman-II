@@ -18,7 +18,7 @@ namespace P1_2_1184064
 
                 String nama = Console.ReadLine();
 
-                Console.WriteLine("Input Nilai : ");
+                Console.WriteLine("Masukkan Nilai : ");
 
                 int nilai = Convert.ToInt16(Console.ReadLine());
 
